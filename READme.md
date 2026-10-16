@@ -1,1 +1,1 @@
-# this repo is about 
+# this repo is about learning sql, 
